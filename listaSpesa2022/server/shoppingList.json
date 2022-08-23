@@ -1,0 +1,1790 @@
+{
+  "__collections__": {
+      "categorie": {
+          "LejLXQ18DS8UCs2jNW73": {
+              "nome": "Caffe', the', cacao",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Coffee%20Pot.png?alt=media&token=a857f25e-0c64-4eb9-aee1-4ec756a75cdb",
+              "__collections__": {}
+          },
+          "Ri55PIa2BKUdKKUiQSf2": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+              "nome": "Pesce",
+              "__collections__": {}
+          },
+          "cEYrxeMweBWvu4R1JcGR": {
+              "nome": "Colazione",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+              "__collections__": {}
+          },
+          "gMJpyQu5WGnlNis9HLq1": {
+              "nome": "Frutta e verdura",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+              "__collections__": {}
+          },
+          "th8nq6aHJKmg2OTZUdSG": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+              "nome": "Bevande",
+              "__collections__": {}
+          },
+          "v0fQgJt8IKaArkPZwhQH": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Cheese.png?alt=media&token=6b2cde68-f7d5-48f9-859a-63c6ecee7040",
+              "nome": "Latticini",
+              "__collections__": {}
+          },
+          "whr10gNtDRoy2VWOss1Z": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Beer.png?alt=media&token=67775760-5ec8-4c4c-9911-469971cce3c7",
+              "nome": "Bevande alcoliche",
+              "__collections__": {}
+          },
+          "xvWdkYHkZVALuUVzJVcI": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+              "nome": "Carne",
+              "__collections__": {}
+          },
+          "zTCgBsFxp8ySssCg9NXc": {
+              "nome": "Pasticceria",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Birthday%20Cake.png?alt=media&token=76f027e9-6f71-491a-b4b7-074f126ed5c1",
+              "__collections__": {}
+          }
+      },
+      "lista": {
+          "0CaM0wG6UNojIkRLs41L": {
+              "email": "test@test.com",
+              "nome": "WWW",
+              "array": [
+                  {
+                      "nome": "hamburger",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "preso": false,
+                      "nomeCategoria": "Carne"
+                  },
+                  {
+                      "nomeCategoria": "Frutta e verdura",
+                      "nome": "Spinaci",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "preso": false
+                  },
+                  {
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "nome": "coca-cola",
+                      "nomeCategoria": "Bevande"
+                  }
+              ],
+              "date": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631570400,
+                      "_nanoseconds": 0
+                  }
+              },
+              "__collections__": {}
+          },
+          "1AvQAwdk6amVOXol6MZA": {
+              "nome": "Nuova Lista",
+              "data": "9/22/2021",
+              "email": "dan@dan.com",
+              "array": [
+                  {
+                      "nome": "Salmone",
+                      "nomeCategoria": "Pesce",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "preso": true
+                  }
+              ],
+              "id": "1AvQAwdk6amVOXol6MZA",
+              "__collections__": {}
+          },
+          "1JnaL7evUzXTI7m7jjDh": {
+              "email": "test@test.com",
+              "nome": "TIMESTAMP",
+              "id": "1JnaL7evUzXTI7m7jjDh",
+              "data": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1630447200,
+                      "_nanoseconds": 0
+                  }
+              },
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "preso": true,
+                      "nome": "Salmone",
+                      "nomeCategoria": "Pesce"
+                  },
+                  {
+                      "nome": "Salmone",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "preso": true,
+                      "nomeCategoria": "Pesce"
+                  },
+                  {
+                      "nome": "Scamorza affumicata",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Cheese.png?alt=media&token=6b2cde68-f7d5-48f9-859a-63c6ecee7040",
+                      "nomeCategoria": "Latticini",
+                      "preso": true
+                  },
+                  {
+                      "preso": false,
+                      "nome": "succo di frutta",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "nomeCategoria": "Bevande"
+                  }
+              ],
+              "__collections__": {}
+          },
+          "2GZ9Bv9wJ8BDPMy0XIDT": {
+              "email": "dan@dan.com",
+              "id": "2GZ9Bv9wJ8BDPMy0XIDT",
+              "date": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631743200,
+                      "_nanoseconds": 0
+                  }
+              },
+              "array": [
+                  {
+                      "nome": "Polpo",
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nomeCategoria": "Pesce"
+                  },
+                  {
+                      "nome": "Salmone",
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nomeCategoria": "Pesce"
+                  },
+                  {
+                      "nomeCategoria": "Pasticceria",
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Birthday%20Cake.png?alt=media&token=76f027e9-6f71-491a-b4b7-074f126ed5c1",
+                      "nome": "Torta"
+                  },
+                  {
+                      "preso": true,
+                      "nomeCategoria": "Colazione",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nome": "marmellata"
+                  }
+              ],
+              "nome": "Nuova Lista",
+              "__collections__": {}
+          },
+          "2P9T6MDanDQJMFHKRKwO": {
+              "nome": "we",
+              "email": "b@b.com",
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "nome": "Aranciata",
+                      "nomeCategoria": "Bevande",
+                      "preso": false
+                  }
+              ],
+              "data": "",
+              "__collections__": {}
+          },
+          "3C60kscdNmNkch5kwCD3": {
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "preso": true,
+                      "nomeCategoria": "Colazione",
+                      "nome": "yogurt"
+                  }
+              ],
+              "id": "3C60kscdNmNkch5kwCD3",
+              "email": "dan@dan.com",
+              "nome": "15 Settembre",
+              "date": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631743200,
+                      "_nanoseconds": 0
+                  }
+              },
+              "__collections__": {}
+          },
+          "5ur9239SnvRJA2CMMCtJ": {
+              "data": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631829600,
+                      "_nanoseconds": 0
+                  }
+              },
+              "id": "5ur9239SnvRJA2CMMCtJ",
+              "email": "test@test.com",
+              "nome": "Nuova Lista",
+              "array": [
+                  {
+                      "nome": "Salmone",
+                      "nomeCategoria": "Pesce",
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "nome": "affettati",
+                      "preso": false,
+                      "nomeCategoria": "Carne"
+                  }
+              ],
+              "__collections__": {}
+          },
+          "6rO1qjDVORtZ11fuXlZc": {
+              "array": [
+                  {
+                      "nome": "Bietola",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nomeCategoria": "Frutta e verdura",
+                      "preso": false
+                  }
+              ],
+              "email": "a@a.com",
+              "data": "",
+              "nome": "giovanni.izzi@aesys.tech",
+              "__collections__": {}
+          },
+          "71uWVvL67hLRRX3m3NbV": {
+              "email": "dan@dan.com",
+              "data": "9/23/2021",
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "preso": false,
+                      "nome": "marmellata",
+                      "nomeCategoria": "Colazione"
+                  }
+              ],
+              "nome": "danielSan",
+              "__collections__": {}
+          },
+          "7Lxf0K3F7n5QZa3JVpw1": {
+              "date": "9/15/2021",
+              "email": "test@test.com",
+              "array": [
+                  {
+                      "preso": true,
+                      "nomeCategoria": "Frutta e verdura",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nome": "Spinaci"
+                  },
+                  {
+                      "nomeCategoria": "Bevande",
+                      "preso": true,
+                      "nome": "Acqua Naturale ",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "preso": true,
+                      "nome": "hamburger",
+                      "nomeCategoria": "Carne"
+                  }
+              ],
+              "id": "7Lxf0K3F7n5QZa3JVpw1",
+              "nome": "Mercoledi ",
+              "__collections__": {}
+          },
+          "82hICXHkjwfWfXXdU6mg": {
+              "date": "9/10/2021",
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nome": "Salmone",
+                      "preso": false,
+                      "nomeCategoria": "Pesce"
+                  },
+                  {
+                      "nome": "Frittura di mare",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nomeCategoria": "Pesce"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "preso": false,
+                      "nome": "yogurt",
+                      "nomeCategoria": "Colazione"
+                  }
+              ],
+              "email": "test@test.com",
+              "nome": "Daniele",
+              "__collections__": {}
+          },
+          "8oH5g1oeY1Zk0f8Vfeov": {
+              "date": "9/11/2021",
+              "email": "test@test.com",
+              "nome": "Nuova Lista",
+              "array": [
+                  {
+                      "nomeCategoria": "Frutta e verdura",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "preso": false,
+                      "nome": "Spinaci"
+                  },
+                  {
+                      "nome": "marmellata",
+                      "nomeCategoria": "Colazione",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "preso": false
+                  }
+              ],
+              "__collections__": {}
+          },
+          "98HpO50DS5PI3ht8myrP": {
+              "date": "9/9/2021",
+              "email": "dan@dan.com",
+              "id": "98HpO50DS5PI3ht8myrP",
+              "nome": "Gigi",
+              "array": [
+                  {
+                      "nome": "Bietola",
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nomeCategoria": "Frutta e verdura"
+                  },
+                  {
+                      "nome": "Fragole",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nomeCategoria": "Frutta e verdura"
+                  }
+              ],
+              "__collections__": {}
+          },
+          "Ah00Niinc6PSyngJZAAI": {
+              "data": "9/23/2021",
+              "email": "dan@dan.com",
+              "array": [
+                  {
+                      "nomeCategoria": "Colazione",
+                      "nome": "pancake",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "preso": false
+                  }
+              ],
+              "nome": "Gigi",
+              "__collections__": {}
+          },
+          "BXh7VPbCTdpAPIN1Jbiz": {
+              "date": "9/16/2021",
+              "email": "dan@dan.com",
+              "array": [
+                  {
+                      "nome": "Frittura di mare",
+                      "nomeCategoria": "Pesce",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded"
+                  }
+              ],
+              "nome": "Danieleelelelele",
+              "__collections__": {}
+          },
+          "CgMvR07vFH40nzc7da72": {
+              "email": "b@b.com",
+              "data": "",
+              "array": [
+                  {
+                      "preso": false,
+                      "nomeCategoria": "Pesce",
+                      "nome": "Salmone",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded"
+                  },
+                  {
+                      "nomeCategoria": "Bevande",
+                      "nome": "Aranciata",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "preso": false
+                  }
+              ],
+              "nome": "lista1",
+              "__collections__": {}
+          },
+          "CuG2oteDdeiFFHnu4ekw": {
+              "data": "9/20/2021",
+              "email": "test@test.com",
+              "array": [
+                  {
+                      "nomeCategoria": "Colazione",
+                      "preso": false,
+                      "nome": "marmellata",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be"
+                  }
+              ],
+              "nome": "Nagneglo",
+              "__collections__": {}
+          },
+          "F1M99X3ODXW9ZmUUdJaO": {
+              "email": "a@a.com",
+              "nome": "we",
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nome": "yogurt",
+                      "nomeCategoria": "Colazione",
+                      "preso": true
+                  },
+                  {
+                      "nomeCategoria": "Pesce",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nome": "Salmone",
+                      "preso": false
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "preso": false,
+                      "nomeCategoria": "Colazione",
+                      "nome": "fette biscottate"
+                  }
+              ],
+              "id": "F1M99X3ODXW9ZmUUdJaO",
+              "data": "",
+              "__collections__": {}
+          },
+          "FA6AmieacNzsFUcQnDhv": {
+              "email": "dan@dan.com",
+              "array": [
+                  {
+                      "nomeCategoria": "Pesce",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nome": "Salmone",
+                      "preso": false
+                  }
+              ],
+              "data": "9/23/2021",
+              "nome": "23 settembre",
+              "__collections__": {}
+          },
+          "HmO3PoFa2b6xXSj6PM5T": {
+              "nome": "Cena",
+              "email": "test@test.com",
+              "date": "9/17/2021",
+              "array": [
+                  {
+                      "nomeCategoria": "Carne",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "nome": "salsicce",
+                      "preso": false
+                  },
+                  {
+                      "nomeCategoria": "Frutta e verdura",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nome": "Spinaci"
+                  },
+                  {
+                      "nomeCategoria": "Bevande",
+                      "nome": "acqua frizzante",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "preso": false
+                  }
+              ],
+              "__collections__": {}
+          },
+          "IpPrbcG49VhZM8qOZDlw": {
+              "data": "9/21/2021",
+              "email": "dan@dan.com",
+              "nome": "trtrh",
+              "array": [
+                  {
+                      "nomeCategoria": "Colazione",
+                      "nome": "yogurt",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "preso": false
+                  }
+              ],
+              "__collections__": {}
+          },
+          "IqBelLepLESyorNRhkiW": {
+              "email": "dan@dan.com",
+              "array": [
+                  {
+                      "nome": "Salmone",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nomeCategoria": "Pesce"
+                  },
+                  {
+                      "nome": "arrosticini",
+                      "preso": false,
+                      "nomeCategoria": "Carne",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4"
+                  }
+              ],
+              "id": "IqBelLepLESyorNRhkiW",
+              "nome": "Nuova Lista",
+              "data": "9/06/2021",
+              "__collections__": {}
+          },
+          "IuXFLLH8yUeKPBxyKa0u": {
+              "data": "9/16/2021",
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nomeCategoria": "Pesce",
+                      "nome": "gamberetti",
+                      "preso": true
+                  }
+              ],
+              "email": "test@test.com",
+              "id": "IuXFLLH8yUeKPBxyKa0u",
+              "nome": "daniele6",
+              "__collections__": {}
+          },
+          "MYiDfxeOGciJSKx4iMJt": {
+              "data": "",
+              "email": "b@b.com",
+              "array": [
+                  {
+                      "preso": false,
+                      "nomeCategoria": "Colazione",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nome": "yogurt"
+                  }
+              ],
+              "nome": "we",
+              "__collections__": {}
+          },
+          "OlXMtg7fhMSfbjiyjGyc": {
+              "nome": "Ciao",
+              "id": "OlXMtg7fhMSfbjiyjGyc",
+              "array": [
+                  {
+                      "nome": "Spinaci",
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nomeCategoria": "Frutta e verdura"
+                  },
+                  {
+                      "nome": "marmellata",
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nomeCategoria": "Colazione"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Birthday%20Cake.png?alt=media&token=76f027e9-6f71-491a-b4b7-074f126ed5c1",
+                      "preso": true,
+                      "nomeCategoria": "Pasticceria",
+                      "nome": "Torta"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nomeCategoria": "Colazione",
+                      "nome": "yogurt",
+                      "preso": true
+                  },
+                  {
+                      "nomeCategoria": "Pesce",
+                      "nome": "gamberetti",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded"
+                  }
+              ],
+              "email": "a@a.com",
+              "data": "",
+              "__collections__": {}
+          },
+          "PbtXsPKBwNlp8wUt6fw9": {
+              "email": "dan@dan.com",
+              "data": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1632233059,
+                      "_nanoseconds": 30000000
+                  }
+              },
+              "array": [
+                  {
+                      "nome": "Salmone",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "preso": false,
+                      "nomeCategoria": "Pesce"
+                  }
+              ],
+              "nome": "sdsfscfasasf",
+              "__collections__": {}
+          },
+          "PjTTd7VC6Zqhu4t5WEyf": {
+              "id": "PjTTd7VC6Zqhu4t5WEyf",
+              "email": "a@a.com",
+              "data": "9/22/2021",
+              "array": [
+                  {
+                      "nomeCategoria": "Pesce",
+                      "preso": true,
+                      "nome": "Salmone",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "preso": true,
+                      "nome": "Spinaci",
+                      "nomeCategoria": "Frutta e verdura"
+                  },
+                  {
+                      "nomeCategoria": "Bevande",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "preso": true,
+                      "nome": "Aranciata"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nomeCategoria": "Colazione",
+                      "preso": false,
+                      "nome": "yogurt"
+                  },
+                  {
+                      "preso": false,
+                      "nome": "Salmone",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nomeCategoria": "Pesce"
+                  },
+                  {
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nome": "Bietola",
+                      "nomeCategoria": "Frutta e verdura"
+                  },
+                  {
+                      "nome": "yogurt",
+                      "nomeCategoria": "Colazione",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "preso": false
+                  },
+                  {
+                      "nomeCategoria": "Bevande",
+                      "preso": false,
+                      "nome": "acqua frizzante",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b"
+                  }
+              ],
+              "nome": "fdgre",
+              "__collections__": {}
+          },
+          "SQE8hqW0xIVRy7T3D42r": {
+              "email": "dan@dan.com",
+              "nome": "Nuova Lista",
+              "data": "9/22/2021",
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nome": "Salmone",
+                      "nomeCategoria": "Pesce",
+                      "preso": false
+                  }
+              ],
+              "__collections__": {}
+          },
+          "URUJyvQWWBOkpE521aBV": {
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "preso": false,
+                      "nomeCategoria": "Colazione",
+                      "nome": "marmellata"
+                  }
+              ],
+              "email": "test@test.com",
+              "date": "9/13/2021",
+              "nome": "Daniele",
+              "__collections__": {}
+          },
+          "WQXwfG7CU20SsCTDVLD7": {
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "nomeCategoria": "Carne",
+                      "nome": "affettati",
+                      "preso": false
+                  }
+              ],
+              "email": "dan@dan.com",
+              "nome": "Ciaone",
+              "date": "9/16/2021",
+              "__collections__": {}
+          },
+          "WVvCsG1KcflRDabFbNZz": {
+              "nome": "Luka",
+              "array": [
+                  {
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nome": "Frittura di mare",
+                      "nomeCategoria": "Pesce"
+                  },
+                  {
+                      "nomeCategoria": "Frutta e verdura",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nome": "Bietola",
+                      "preso": true
+                  },
+                  {
+                      "nomeCategoria": "Pasticceria",
+                      "nome": "Torta",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Birthday%20Cake.png?alt=media&token=76f027e9-6f71-491a-b4b7-074f126ed5c1",
+                      "preso": true
+                  }
+              ],
+              "id": "WVvCsG1KcflRDabFbNZz",
+              "data": "9/21/2021",
+              "email": "dan@dan.com",
+              "__collections__": {}
+          },
+          "bNuZejZAPb66mbqA7vBd": {
+              "email": "test@test.com",
+              "nome": "Angelo",
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "nome": "succo di frutta",
+                      "preso": false,
+                      "nomeCategoria": "Bevande"
+                  }
+              ],
+              "date": "9/15/2021",
+              "__collections__": {}
+          },
+          "cvQMX0pAy9Erlw7UKcnu": {
+              "data": "",
+              "array": [
+                  {
+                      "nomeCategoria": "Pesce",
+                      "nome": "Salmone",
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "nome": "succo di frutta",
+                      "preso": false,
+                      "nomeCategoria": "Bevande"
+                  }
+              ],
+              "nome": "we",
+              "id": "cvQMX0pAy9Erlw7UKcnu",
+              "email": "a@a.com",
+              "__collections__": {}
+          },
+          "dCZQMz2FYtr8Dq8i1hhN": {
+              "date": "9/12/2021",
+              "id": "dCZQMz2FYtr8Dq8i1hhN",
+              "array": [
+                  {
+                      "preso": false,
+                      "nomeCategoria": "Colazione",
+                      "nome": "marmellata",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be"
+                  },
+                  {
+                      "preso": false,
+                      "nomeCategoria": "Colazione",
+                      "nome": "fette biscottate",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be"
+                  },
+                  {
+                      "nome": "yogurt",
+                      "nomeCategoria": "Colazione",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "preso": true
+                  }
+              ],
+              "nome": "14 Settembre",
+              "email": "test@test.com",
+              "__collections__": {}
+          },
+          "dCho9AbOiAStsERbNGwF": {
+              "array": [
+                  {
+                      "nome": "pancake",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nomeCategoria": "Colazione",
+                      "preso": true
+                  },
+                  {
+                      "nomeCategoria": "Bevande",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "nome": "succo di frutta",
+                      "preso": true
+                  }
+              ],
+              "id": "dCho9AbOiAStsERbNGwF",
+              "nome": "caio",
+              "data": "",
+              "email": "a@a.com",
+              "__collections__": {}
+          },
+          "dvCqROn9ObFLpHP465Q3": {
+              "array": [
+                  {
+                      "nomeCategoria": "Colazione",
+                      "nome": "yogurt",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "preso": true
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "nomeCategoria": "Carne",
+                      "preso": true,
+                      "nome": "affettati"
+                  },
+                  {
+                      "nomeCategoria": "Latticini",
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Cheese.png?alt=media&token=6b2cde68-f7d5-48f9-859a-63c6ecee7040",
+                      "nome": "Scamorza affumicata"
+                  },
+                  {
+                      "nome": "Salmone",
+                      "nomeCategoria": "Pesce",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded"
+                  }
+              ],
+              "data": "",
+              "nome": "Nuova Lista",
+              "email": "a@a.com",
+              "id": "dvCqROn9ObFLpHP465Q3",
+              "__collections__": {}
+          },
+          "eApkQJOaKkt9t4nr0FzZ": {
+              "email": "test@test.com",
+              "array": [
+                  {
+                      "nomeCategoria": "Pesce",
+                      "preso": false,
+                      "nome": "Salmone",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded"
+                  },
+                  {
+                      "preso": false,
+                      "nomeCategoria": "Frutta e verdura",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nome": "Bietola"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "preso": false,
+                      "nomeCategoria": "Bevande",
+                      "nome": "Acqua Naturale "
+                  },
+                  {
+                      "nome": "tiramisu'",
+                      "preso": false,
+                      "nomeCategoria": "Pasticceria",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Birthday%20Cake.png?alt=media&token=76f027e9-6f71-491a-b4b7-074f126ed5c1"
+                  }
+              ],
+              "nome": "Daniele",
+              "date": "9/17/2021",
+              "__collections__": {}
+          },
+          "eltooeCILz1ErmvWWv1v": {
+              "data": "9/16/2021",
+              "array": [
+                  {
+                      "nome": "yogurt",
+                      "preso": false,
+                      "nomeCategoria": "Colazione",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be"
+                  },
+                  {
+                      "nomeCategoria": "Pesce",
+                      "nome": "Salmone",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded"
+                  }
+              ],
+              "email": "test@test.com",
+              "nome": "Felipe",
+              "__collections__": {}
+          },
+          "fiqCqTOAjhiZGpzK5CxP": {
+              "array": [
+                  {
+                      "nomeCategoria": "Colazione",
+                      "preso": true,
+                      "nome": "yogurt",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be"
+                  },
+                  {
+                      "nome": "Bietola",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "preso": true,
+                      "nomeCategoria": "Frutta e verdura"
+                  }
+              ],
+              "id": "fiqCqTOAjhiZGpzK5CxP",
+              "data": "",
+              "nome": "Nuova Lista",
+              "email": "a@a.com",
+              "__collections__": {}
+          },
+          "gDfKeZCa7fLuZhAlm8oU": {
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "nome": "bistecca",
+                      "nomeCategoria": "Carne",
+                      "preso": true
+                  },
+                  {
+                      "preso": true,
+                      "nomeCategoria": "Carne",
+                      "nome": "salsicce",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4"
+                  }
+              ],
+              "email": "dan@dan.com",
+              "data": "9/16/2021",
+              "nome": "porco",
+              "id": "gDfKeZCa7fLuZhAlm8oU",
+              "__collections__": {}
+          },
+          "gfkvDo1NPU96kXiQTkyr": {
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "nome": "succo di frutta",
+                      "preso": false,
+                      "nomeCategoria": "Bevande"
+                  }
+              ],
+              "data": "9/16/2021",
+              "email": "test@test.com",
+              "id": "gfkvDo1NPU96kXiQTkyr",
+              "nome": "scemo chi legge",
+              "__collections__": {}
+          },
+          "hofzlvj0ZH7YAYEhyR4j": {
+              "nome": "Ciao",
+              "array": [
+                  {
+                      "nomeCategoria": "Carne",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "nome": "affettati",
+                      "preso": false
+                  }
+              ],
+              "data": "9/21/2021",
+              "email": "dan@dan.com",
+              "__collections__": {}
+          },
+          "iPEUrznVE8Ze7N8V2qWO": {
+              "email": "test@test.com",
+              "nome": "prova5",
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nome": "yogurt",
+                      "nomeCategoria": "Colazione",
+                      "preso": false
+                  }
+              ],
+              "data": "9/23/2021",
+              "__collections__": {}
+          },
+          "jau03BTa9SrJOZ2oJ7aj": {
+              "id": "jau03BTa9SrJOZ2oJ7aj",
+              "array": [
+                  {
+                      "nome": "Salmone",
+                      "nomeCategoria": "Pesce",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "preso": true
+                  },
+                  {
+                      "nome": "Aranciata",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "nomeCategoria": "Bevande",
+                      "preso": true
+                  }
+              ],
+              "nome": "admin@admin.it",
+              "email": "dan@dan.com",
+              "data": "9/21/2021",
+              "__collections__": {}
+          },
+          "jrtJa1WEQvgAseagcWQO": {
+              "email": "test@test.com",
+              "date": "9/15/2021",
+              "array": [
+                  {
+                      "nomeCategoria": "Pesce",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nome": "Frittura di mare"
+                  }
+              ],
+              "nome": "15 Settembre",
+              "__collections__": {}
+          },
+          "kZXdzFdaymtwKJNRs6xH": {
+              "id": "kZXdzFdaymtwKJNRs6xH",
+              "email": "dan@dan.com",
+              "array": [
+                  {
+                      "nomeCategoria": "Bevande",
+                      "nome": "succo di frutta",
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b"
+                  },
+                  {
+                      "preso": false,
+                      "nome": "marmellata",
+                      "nomeCategoria": "Colazione",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be"
+                  }
+              ],
+              "nome": "Nuova Lista",
+              "data": "9/23/2021",
+              "__collections__": {}
+          },
+          "kr9YtH37v30BLk6eRIRl": {
+              "id": "kr9YtH37v30BLk6eRIRl",
+              "array": [
+                  {
+                      "nome": "marmellata",
+                      "preso": true,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nomeCategoria": "Colazione"
+                  },
+                  {
+                      "nomeCategoria": "Frutta e verdura",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nome": "Spinaci",
+                      "preso": false
+                  }
+              ],
+              "date": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631656800,
+                      "_nanoseconds": 0
+                  }
+              },
+              "nome": "we",
+              "email": "dan@dan.com",
+              "__collections__": {}
+          },
+          "l1o81xTS3uSPZgIygnD7": {
+              "data": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631743200,
+                      "_nanoseconds": 0
+                  }
+              },
+              "email": "dan@dan.com",
+              "nome": "check",
+              "array": [
+                  {
+                      "nome": "Salmone",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nomeCategoria": "Pesce",
+                      "preso": false
+                  }
+              ],
+              "__collections__": {}
+          },
+          "lBwLx8sIKZilyUBkzokQ": {
+              "nome": "asdasd",
+              "email": "dan@dan.com",
+              "data": "9/21/2021",
+              "array": [
+                  {
+                      "nomeCategoria": "Bevande",
+                      "preso": false,
+                      "nome": "succo di frutta",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Birthday%20Cake.png?alt=media&token=76f027e9-6f71-491a-b4b7-074f126ed5c1",
+                      "nomeCategoria": "Pasticceria",
+                      "nome": "Torta",
+                      "preso": false
+                  }
+              ],
+              "__collections__": {}
+          },
+          "n66TFE42fi6s0maQluHX": {
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nome": "marmellata",
+                      "nomeCategoria": "Colazione",
+                      "preso": true
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nome": "fette biscottate",
+                      "nomeCategoria": "Colazione",
+                      "preso": true
+                  },
+                  {
+                      "nomeCategoria": "Carne",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "nome": "salsicce"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "preso": false,
+                      "nomeCategoria": "Frutta e verdura",
+                      "nome": "Spinaci"
+                  },
+                  {
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nomeCategoria": "Colazione",
+                      "nome": "yogurt"
+                  }
+              ],
+              "id": "n66TFE42fi6s0maQluHX",
+              "data": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631743200,
+                      "_nanoseconds": 0
+                  }
+              },
+              "email": "test@test.com",
+              "nome": "F1",
+              "__collections__": {}
+          },
+          "o5p6oQVUxSq2y3xXcnhQ": {
+              "email": "dan@dan.com",
+              "array": [
+                  {
+                      "nomeCategoria": "Carne",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "nome": "bistecca"
+                  }
+              ],
+              "data": "9/16/2021",
+              "nome": "Mucca",
+              "__collections__": {}
+          },
+          "oGc0lHPY46LMAKmlZMWP": {
+              "array": [
+                  {
+                      "preso": false,
+                      "nomeCategoria": "Carne",
+                      "nome": "hamburger",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nome": "Pesce al cartoccio",
+                      "preso": false,
+                      "nomeCategoria": "Pesce"
+                  }
+              ],
+              "email": "dan@dan.com",
+              "nome": "we",
+              "data": "9/24/2021",
+              "__collections__": {}
+          },
+          "oToossd0wzokRUlrHgyO": {
+              "data": "9/20/2021",
+              "email": "test@test.com",
+              "array": [
+                  {
+                      "preso": false,
+                      "nomeCategoria": "Pesce",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nome": "Salmone"
+                  },
+                  {
+                      "preso": false,
+                      "nomeCategoria": "Bevande",
+                      "nome": "Aranciata",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b"
+                  }
+              ],
+              "nome": "20 Settembre",
+              "__collections__": {}
+          },
+          "qT5MeAPsdWPdxtnpazZ4": {
+              "data": "9/22/2021",
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "preso": false,
+                      "nomeCategoria": "Carne",
+                      "nome": "pollo"
+                  }
+              ],
+              "email": "dan@dan.com",
+              "nome": "Nuova Lista",
+              "__collections__": {}
+          },
+          "qphsWLHgJjm5FHoSkXeN": {
+              "array": [
+                  {
+                      "nomeCategoria": "Pesce",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nome": "Salmone",
+                      "preso": false
+                  }
+              ],
+              "nome": "adada",
+              "data": "9/21/2021",
+              "email": "dan@dan.com",
+              "__collections__": {}
+          },
+          "sANRJMJdIaPOoUYNqq4y": {
+              "id": "sANRJMJdIaPOoUYNqq4y",
+              "nome": "Manuel",
+              "array": [
+                  {
+                      "preso": true,
+                      "nomeCategoria": "Frutta e verdura",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nome": "Bietola"
+                  }
+              ],
+              "email": "dan@dan.com",
+              "data": "9/23/2021",
+              "__collections__": {}
+          },
+          "ss9dpm5N1v2KSqKhIsK6": {
+              "data": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631311200,
+                      "_nanoseconds": 0
+                  }
+              },
+              "email": "dan@dan.com",
+              "array": [
+                  {
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nomeCategoria": "Pesce",
+                      "nome": "Pesce al cartoccio"
+                  },
+                  {
+                      "preso": false,
+                      "nome": "Salmone",
+                      "nomeCategoria": "Pesce",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded"
+                  }
+              ],
+              "nome": "brutta",
+              "__collections__": {}
+          },
+          "uZklYFdVEds091pdLArv": {
+              "data": "9/24/2021",
+              "email": "dan@dan.com",
+              "nome": "provaci",
+              "array": [
+                  {
+                      "preso": false,
+                      "nome": "gamberetti",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nomeCategoria": "Pesce"
+                  }
+              ],
+              "__collections__": {}
+          },
+          "um65COja9cL2FmRisskV": {
+              "array": [
+                  {
+                      "nome": "marmellata",
+                      "nomeCategoria": "Colazione",
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be"
+                  }
+              ],
+              "email": "dan@dan.com",
+              "data": "9/23/2021",
+              "nome": "22 Settembre",
+              "__collections__": {}
+          },
+          "vQErPpopB3W8utsxUhGV": {
+              "email": "test@test.com",
+              "nome": "MArione",
+              "date": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631829600,
+                      "_nanoseconds": 0
+                  }
+              },
+              "array": [
+                  {
+                      "nomeCategoria": "Bevande",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+                      "nome": "succo di frutta",
+                      "preso": false
+                  }
+              ],
+              "__collections__": {}
+          },
+          "veIji5Z4CaWbzPCe4eNQ": {
+              "date": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631829600,
+                      "_nanoseconds": 0
+                  }
+              },
+              "nome": "Daniele2",
+              "email": "test@test.com",
+              "array": [
+                  {
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nome": "marmellata",
+                      "nomeCategoria": "Colazione"
+                  }
+              ],
+              "__collections__": {}
+          },
+          "vxb6Uf7KaaF15qdZxtZV": {
+              "data": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631829600,
+                      "_nanoseconds": 0
+                  }
+              },
+              "nome": "Valentina",
+              "email": "test@test.com",
+              "array": [
+                  {
+                      "preso": false,
+                      "nomeCategoria": "Carne",
+                      "nome": "bistecca",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4"
+                  },
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "nomeCategoria": "Carne",
+                      "nome": "arrosticini",
+                      "preso": false
+                  },
+                  {
+                      "nomeCategoria": "Carne",
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+                      "nome": "salsicce",
+                      "preso": false
+                  }
+              ],
+              "__collections__": {}
+          },
+          "wv5KWdyaRZ4jJBbXjo98": {
+              "data": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631484000,
+                      "_nanoseconds": 0
+                  }
+              },
+              "nome": "Ciao",
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+                      "nomeCategoria": "Frutta e verdura",
+                      "preso": false,
+                      "nome": "Spinaci"
+                  }
+              ],
+              "email": "dan@dan.com",
+              "id": "wv5KWdyaRZ4jJBbXjo98",
+              "__collections__": {}
+          },
+          "xgf9RfvupG1rXazMuFz0": {
+              "email": "a@a.com",
+              "nome": "Nuova Lista",
+              "id": "xgf9RfvupG1rXazMuFz0",
+              "data": "9/22/2021",
+              "array": [
+                  {
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+                      "nomeCategoria": "Colazione",
+                      "nome": "yogurt",
+                      "preso": true
+                  }
+              ],
+              "__collections__": {}
+          },
+          "yGLqCvzpSfbbV6Z6sa3g": {
+              "data": {
+                  "__datatype__": "timestamp",
+                  "value": {
+                      "_seconds": 1631829600,
+                      "_nanoseconds": 0
+                  }
+              },
+              "email": "dan@dan.com",
+              "array": [
+                  {
+                      "preso": false,
+                      "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+                      "nomeCategoria": "Pesce",
+                      "nome": "Salmone"
+                  }
+              ],
+              "nome": "A",
+              "__collections__": {}
+          }
+      },
+      "prodotti": {
+          "0awkqMmxwZEaSe797HLh": {
+              "nomeCategoria": "Bevande",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+              "nome": "bibita analcolica",
+              "__collections__": {}
+          },
+          "0wbuCi6FYlIhPaT09DN4": {
+              "nomeCategoria": "Latticini",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Cheese.png?alt=media&token=6b2cde68-f7d5-48f9-859a-63c6ecee7040",
+              "nome": "gorgonzola",
+              "__collections__": {}
+          },
+          "7A3rY8xJ8lm9Pp0mfh9o": {
+              "nomeCategoria": "Bevande Alcoliche",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Beer.png?alt=media&token=67775760-5ec8-4c4c-9911-469971cce3c7",
+              "nome": "Vino Bianco",
+              "__collections__": {}
+          },
+          "8ulWNPuOfbCsu9lsT54E": {
+              "nome": "Aranciata",
+              "nomeCategoria": "Bevande",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+              "__collections__": {}
+          },
+          "9Wnw1dvby4Tur74uB6Q6": {
+              "nomeCategoria": "Bevande",
+              "nome": "succo di frutta",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+              "__collections__": {}
+          },
+          "APzSju5dAmMFXd3GwQML": {
+              "nome": "vino rosso",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Beer.png?alt=media&token=67775760-5ec8-4c4c-9911-469971cce3c7",
+              "nomeCategoria": "Bevande Alcoliche",
+              "__collections__": {}
+          },
+          "BJo4tFn04IvgyUV5LeIS": {
+              "nome": "gamberetti",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+              "nomeCategoria": "Pesce",
+              "__collections__": {}
+          },
+          "C6C08VeLD3ejUq6hwAZu": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+              "nomeCategoria": "Pesce",
+              "nome": "Salmone",
+              "__collections__": {}
+          },
+          "CaE6bJNu5qokcb02C3bS": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+              "nome": "Frittura di mare",
+              "nomeCategoria": "Pesce",
+              "__collections__": {}
+          },
+          "EJMRgfaVV7aHmOEyCFFA": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+              "nome": "bistecca",
+              "nomeCategoria": "Carne",
+              "__collections__": {}
+          },
+          "EL0jq7MI3N8qvMMMtGwe": {
+              "nomeCategoria": "Carne",
+              "nome": "coniglio",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+              "__collections__": {}
+          },
+          "GJ0qnJI7CZI1kXNOgIyN": {
+              "nomeCategoria": "caffe',the',cacao",
+              "nome": "cioccolata calda",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Coffee%20Pot.png?alt=media&token=a857f25e-0c64-4eb9-aee1-4ec756a75cdb",
+              "__collections__": {}
+          },
+          "HH0R2H8vtKXd5aCY53wh": {
+              "nome": "Cocco",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+              "nomeCategoria": "Frutta e verdura",
+              "__collections__": {}
+          },
+          "Hs7QdI2ECi9DNj3N0ii4": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Beer.png?alt=media&token=67775760-5ec8-4c4c-9911-469971cce3c7",
+              "nome": "liquore",
+              "nomeCategoria": "Bevande Alcoliche",
+              "__collections__": {}
+          },
+          "Hy9tFSl9ZdPo8N3EXq3x": {
+              "nomeCategoria": "Latticini",
+              "nome": "Scamorza affumicata",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Cheese.png?alt=media&token=6b2cde68-f7d5-48f9-859a-63c6ecee7040",
+              "__collections__": {}
+          },
+          "I0Cpq3Jls12w68g2k0Is": {
+              "nome": "affettati",
+              "nomeCategoria": "Carne",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+              "__collections__": {}
+          },
+          "J1CrsCJQ6qIFXbrnSj2d": {
+              "nomeCategoria": "Bevande",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+              "nome": "acqua frizzante",
+              "__collections__": {}
+          },
+          "Jbe8g25vyHNC72fG7IVZ": {
+              "nome": "Polpo",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+              "nomeCategoria": "Pesce",
+              "__collections__": {}
+          },
+          "KNlIUv8lCs7bQD41q0ht": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+              "nome": "cornetto",
+              "nomeCategoria": "Colazione",
+              "__collections__": {}
+          },
+          "LxXsxSFDT3A5BampeYcw": {
+              "nomeCategoria": "Frutta e verdura",
+              "nome": "Spinaci",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+              "__collections__": {}
+          },
+          "M4XpyHeXdZaa2xY0UM0J": {
+              "nomeCategoria": "Pasticceria",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Birthday%20Cake.png?alt=media&token=76f027e9-6f71-491a-b4b7-074f126ed5c1",
+              "nome": "tiramisu'",
+              "__collections__": {}
+          },
+          "NR4nzkfKHXECcxLVQcRF": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Coffee%20Pot.png?alt=media&token=a857f25e-0c64-4eb9-aee1-4ec756a75cdb",
+              "nome": "infusi vari gusti",
+              "nomeCategoria": "caffe',the',cacao",
+              "__collections__": {}
+          },
+          "QmeqKzyEvR7r0OBCoxIn": {
+              "nomeCategoria": "caffe',the',cacao",
+              "nome": "caffe'",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Coffee%20Pot.png?alt=media&token=a857f25e-0c64-4eb9-aee1-4ec756a75cdb",
+              "__collections__": {}
+          },
+          "THygFGECYLz4Yg6ZfHTs": {
+              "nome": "latte",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Cheese.png?alt=media&token=6b2cde68-f7d5-48f9-859a-63c6ecee7040",
+              "nomeCategoria": "Latticini",
+              "__collections__": {}
+          },
+          "Tzwfiz3x1zEIwG3xhBih": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+              "nomeCategoria": "Bevande",
+              "nome": "limonata",
+              "__collections__": {}
+          },
+          "W8v2tX7guwUcm8jgFnr4": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+              "nomeCategoria": "Bevande",
+              "nome": "coca-cola",
+              "__collections__": {}
+          },
+          "WL2GcLMzRaggJK0I3BTP": {
+              "nome": "hamburger",
+              "nomeCategoria": "Carne",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+              "__collections__": {}
+          },
+          "X5AgDE3uPOfcnZ101AfU": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+              "nome": "arrosticini",
+              "nomeCategoria": "Carne",
+              "__collections__": {}
+          },
+          "Y6GOJcz8Eq29tlYfs2Wn": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Cheese.png?alt=media&token=6b2cde68-f7d5-48f9-859a-63c6ecee7040",
+              "nomeCategoria": "Latticini",
+              "nome": "Scamorza",
+              "__collections__": {}
+          },
+          "Y9IxGIp6TFYHaVz8O1zg": {
+              "nome": "Torta",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Birthday%20Cake.png?alt=media&token=76f027e9-6f71-491a-b4b7-074f126ed5c1",
+              "nomeCategoria": "Pasticceria",
+              "__collections__": {}
+          },
+          "YlhApcKf7JBpEBKg8SzO": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Coffee%20Pot.png?alt=media&token=a857f25e-0c64-4eb9-aee1-4ec756a75cdb",
+              "nome": "cappuccino",
+              "nomeCategoria": "caffe',the',cacao",
+              "__collections__": {}
+          },
+          "aW0DkRhmPUPKkpQpP2gp": {
+              "nomeCategoria": "Carne",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+              "nome": "pollo",
+              "__collections__": {}
+          },
+          "acwnzZzJZKflrMRwEICK": {
+              "nomeCategoria": "Colazione",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+              "nome": "yogurt",
+              "__collections__": {}
+          },
+          "b6AT68CG92UVi693niL8": {
+              "nome": "marmellata",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+              "nomeCategoria": "Colazione",
+              "__collections__": {}
+          },
+          "c3wNERnRsTj0NFk8PUE0": {
+              "nomeCategoria": "Pesce",
+              "nome": "Pesce al cartoccio",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+              "__collections__": {}
+          },
+          "d6N1A5k4z9yhmF4QOC43": {
+              "nome": "fette biscottate",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+              "nomeCategoria": "Colazione",
+              "__collections__": {}
+          },
+          "dodeBKK0yDL7hbWUdS4C": {
+              "imamgine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Beer.png?alt=media&token=67775760-5ec8-4c4c-9911-469971cce3c7",
+              "nome": "birra",
+              "nomeCategoria": "Bevande Alcoliche",
+              "__collections__": {}
+          },
+          "eZ1R7MYePUmJtoSvCapO": {
+              "nomeCategoria": "Bevande",
+              "nome": "Acqua Naturale ",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Bottle%20of%20Water.png?alt=media&token=278b6aa6-78f2-43e3-8c88-f7cc848de91b",
+              "__collections__": {}
+          },
+          "ee4Uyr60cJbb4Lq82ivI": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+              "nomeCategoria": "Frutta e verdura",
+              "nome": "Bietola",
+              "__collections__": {}
+          },
+          "isGUjVVPrYKvjJrgt9Ic": {
+              "nomeCategoria": "Latticini",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Cheese.png?alt=media&token=6b2cde68-f7d5-48f9-859a-63c6ecee7040",
+              "nome": "mozzarella",
+              "__collections__": {}
+          },
+          "jaKYh6OMKsxcAgqGJ0oU": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+              "nome": "tacchino",
+              "nomeCategoria": "Carne",
+              "__collections__": {}
+          },
+          "jeuCAJOJAMlQo7A7W6dq": {
+              "nome": "Mele",
+              "nomeCategoria": "Frutta e Verdura",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+              "__collections__": {}
+          },
+          "kHJpRVJSlvXz0QkpEiGl": {
+              "nomeCategoria": "Colazione",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+              "nome": "pancake",
+              "__collections__": {}
+          },
+          "km3IpYvSODJnkfiVp4LE": {
+              "nomeCategoria": "Latticini",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Cheese.png?alt=media&token=6b2cde68-f7d5-48f9-859a-63c6ecee7040",
+              "nome": "ricotta",
+              "__collections__": {}
+          },
+          "lCocNWXSvh0WUsG858Wc": {
+              "nomeCategoria": "Pesce",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+              "nome": "aragosta",
+              "__collections__": {}
+          },
+          "mF5xFaiWwX5VYAQlEe7U": {
+              "nomeCategoria": "Colazione",
+              "nome": "biscotti",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+              "__collections__": {}
+          },
+          "nXHtsajhRd2PZMqMQmkH": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Pancake.png?alt=media&token=1aa7e9b0-a6a5-4be1-8923-88489fe723be",
+              "nomeCategoria": "Colazione",
+              "nome": "burro",
+              "__collections__": {}
+          },
+          "o60jFMLLYOzSxUlZO5Qe": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+              "nome": "carne macinata",
+              "nomeCategoria": "Carne",
+              "__collections__": {}
+          },
+          "oX3qCvd0ZzE7VEngWhBN": {
+              "nomeCategoria": "Pasticceria",
+              "nome": "Banana-split",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Birthday%20Cake.png?alt=media&token=76f027e9-6f71-491a-b4b7-074f126ed5c1",
+              "__collections__": {}
+          },
+          "p0M6S73KkmplMcA2V34X": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Cheese.png?alt=media&token=6b2cde68-f7d5-48f9-859a-63c6ecee7040",
+              "nome": "stracchino",
+              "nomeCategoria": "Latticini",
+              "__collections__": {}
+          },
+          "t7lGdW2oaA25hfg2ynUo": {
+              "nome": "Cavolo",
+              "nomeCategoria": "Frutta e verdura",
+              "immaigne": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+              "__collections__": {}
+          },
+          "u1aPcGoOyG41HeYYayk9": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Fish%20Food.png?alt=media&token=2cfe1cf7-ff2a-412e-9bbe-243d55ca2ded",
+              "nome": "Cozze",
+              "nomeCategoria": "Pesce",
+              "__collections__": {}
+          },
+          "vvkY7Ns1Vdesyjs3xnFN": {
+              "nome": "cacao",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Coffee%20Pot.png?alt=media&token=a857f25e-0c64-4eb9-aee1-4ec756a75cdb",
+              "nomeCategoria": "caffe',the',cacao",
+              "__collections__": {}
+          },
+          "wAYgvYzlR9QY3NuDKXCA": {
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Birthday%20Cake.png?alt=media&token=76f027e9-6f71-491a-b4b7-074f126ed5c1",
+              "nomeCategoria": "Pasticceria",
+              "nome": "cookies",
+              "__collections__": {}
+          },
+          "wSwjN1uIKkkocCgHd9c7": {
+              "nomeCategoria": "Carne",
+              "nome": "salsicce",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Steak.png?alt=media&token=31992b09-a0d2-48ac-bc93-9489fd41f4f4",
+              "__collections__": {}
+          },
+          "xNeet7sxK6Ah0vGX3h8W": {
+              "nome": "whisky",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Beer.png?alt=media&token=67775760-5ec8-4c4c-9911-469971cce3c7",
+              "nomeCategoria": "Bevande Alcoliche",
+              "__collections__": {}
+          },
+          "zVSfV4IGHAz6mkUobeg5": {
+              "nomeCategoria": "Frutta e verdura",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Apple.png?alt=media&token=0eb7b8a8-6e73-41ff-a36d-f4b7c81055fe",
+              "nome": "Fragole",
+              "__collections__": {}
+          },
+          "znTWJSvWPNKK2P8VqViE": {
+              "nomeCategoria": "caffe',the',cacao",
+              "immagine": "https://firebasestorage.googleapis.com/v0/b/lista-della-spesa-a941e.appspot.com/o/Coffee%20Pot.png?alt=media&token=a857f25e-0c64-4eb9-aee1-4ec756a75cdb",
+              "nome": "the' ",
+              "__collections__": {}
+          }
+      }
+  }
+}
