@@ -7,14 +7,7 @@ import { ProvaComponent } from './features/components/prova/prova.component';
 import { SelectCategoryProductComponent } from './features/components/select-category-product/select-category-product.component';
 
 const routes: Routes = [
-  {path: '', component: MyListsComponent},
-  {path: '__collections__' , component: ProvaComponent},
-  {path: 'createList', component: CreateListComponent},
-  {path: 'myLists', component: MyListsComponent},
-  {path: 'list', component: ListComponent},
-  {path:'selectProduct', component: SelectCategoryProductComponent},
-  {path: 'test' , component: ProvaComponent}
-];
+  {path: '__collections__' , component: ProvaComponent}];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

@@ -1,6 +1,6 @@
 import { DataService } from './../../../service/data.service';
 import { Component, OnInit } from '@angular/core';
-import { ICategorie } from 'src/interface';
+import { ICategorie } from '../../../models/interface';
 
 @Component({
   selector: 'app-prova',

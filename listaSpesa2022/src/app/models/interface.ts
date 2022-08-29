@@ -8,8 +8,7 @@ export interface Collections {
 }
 
 export interface ICategorie {
-  id: IdCategorie[],
-  nome: string;
+  id: IdCategorie
 }
 
 
