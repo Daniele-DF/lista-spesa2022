@@ -8,8 +8,7 @@ export interface Collections {
 }
 
 export interface ICategorie {
-  id: IdCategorie;
-  nome: string
+  id: IdCategorie
 }
 
 
@@ -24,20 +23,8 @@ export interface ICategorie {
 
 
 
-
-  export interface IProva {
-      data: Data;
-      id: string;
-      email: string;
-      nome: string;
-      array: Array[];
-      __collections__: Collections;
-  }
-
-
-
   export interface IProdotti {
-    id: IdProdotto;
+    id: IdProdotto[];
   }
 
   export interface IdProdotto{

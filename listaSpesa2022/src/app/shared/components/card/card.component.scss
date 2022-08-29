@@ -1,0 +1,25 @@
+
+
+mat-card-header{
+  background-color: green;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  width: 100%;
+  height: 60px;
+  background-size:cover;
+  background-color: green;
+}
+
+.mat-card{
+  margin: 10px;
+  padding: 0px !important;
+
+}
+
+.header-title {
+  margin-top: 15px;
+}
+
+
