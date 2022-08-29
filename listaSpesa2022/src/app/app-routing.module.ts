@@ -12,7 +12,8 @@ const routes: Routes = [
   {path: 'createList', component: CreateListComponent},
   {path: 'myLists', component: MyListsComponent},
   {path: 'list', component: ListComponent},
-  {path:'selectProduct', component: SelectCategoryProductComponent}
+  {path:'selectProduct', component: SelectCategoryProductComponent},
+  {path: 'test' , component: ProvaComponent}
 ];
 
 @NgModule({

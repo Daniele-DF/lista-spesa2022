@@ -11,7 +11,7 @@ export class DataService {
 
   constructor(private http: HttpClient) { }
 
-  getAllData():Observable<Collections[]>{
-    return this.http.get<Collections[]>(environment.apiUrl + '/' + '__collections__');
+  getAllData():Observable<Collections>{ 
+    return this.http.get<Collections>(environment.apiUrl + '/' + '__collections__');
   }
 }
