@@ -2,13 +2,14 @@
 
 
 export interface Collections {
-  categorie: ICategorie;
-  lista: IListaCreata;
-  prodotti: IProdotti;
+  categorie: ICategorie[];
+  lista: IListaCreata[];
+  prodotti: IProdotti[];
 }
 
 export interface ICategorie {
-  id: IdCategorie,
+  id: IdCategorie[],
+  nome: string;
 
 }
 
@@ -25,7 +26,7 @@ export interface ICategorie {
 
 
   export interface IProdotti {
-    id: IdProdotto;
+    id: IdProdotto[];
   }
 
   export interface IdProdotto{

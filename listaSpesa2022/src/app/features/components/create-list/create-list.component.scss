@@ -1,0 +1,35 @@
+.sfondo{
+  background-color: dodgerblue;
+  height: 100%;
+}
+
+.close-icon{
+ padding:30px;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+}
+
+.container-card{
+  display: flex;
+}
+
+.card-content{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.home{
+  margin-left: 27px;
+  margin-top: 20px;
+}
+
+.btn-crea{
+  margin-top: 10px;
+  margin-left: 5px;
+}
