@@ -1,5 +1,6 @@
 import { DataService } from './../../../service/data.service';
 import { Component, OnInit } from '@angular/core';
+import { ICategorie } from 'src/interface';
 
 @Component({
   selector: 'app-prova',
@@ -10,12 +11,14 @@ export class ProvaComponent implements OnInit {
 
   constructor(private dataService: DataService) { }
 
+  categorie: ICategorie[] | undefined;
+
   ngOnInit(): void {
     this.getAllData();
   }
 
   getAllData(){
-    return this.dataService.getAllData().subscribe(data => console.log(data));
+    return this.dataService.getAllData().subscribe(data => {this.categorie = Object.values(data.categorie)});
   }
 
 }
